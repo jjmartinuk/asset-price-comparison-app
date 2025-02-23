@@ -1,0 +1,10 @@
+name: asset_price_app
+title:
+username: jj-martin
+account: jj-martin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13620188
+bundleId: 9542054
+url: https://jj-martin.shinyapps.io/asset_price_app/
+version: 1
